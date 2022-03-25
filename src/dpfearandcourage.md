@@ -14,9 +14,9 @@ tags: navItem
    
  </div>  
    <div class="dpimages-width"> 
-   <img src="images/fear.jpg"  class="dp" alt="image" style="width:70%"></div>
+   <img src="/images/fear.jpg"  class="dp" alt="image" style="width:70%"></div>
    <div class="dpimages-width"> 
-   <img src="images/courage.jpg" class="dp" alt="image" style="width:70%">
+   <img src="/images/courage.jpg" class="dp" alt="image" style="width:70%">
    </div>
     </div>
 
