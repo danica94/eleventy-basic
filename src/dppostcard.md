@@ -3,7 +3,7 @@ title: Home
 layout: base.njk
 tags: navItem
 ---
-# {{title}}
+# 
 <div class="detailpage">     
  <div class="description"> 
    <h2 class="dptitle">Postcard: MOMA</h2> 

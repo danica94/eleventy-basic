@@ -3,7 +3,7 @@ title: Home
 layout: base.njk
 tags: navItem
 ---
-# {{title}}
+# 
 
  <h1 class="design">Multimedia Student Project</h1>
    <h2 class="tool">Tool: Photoshop, Illustrator</h2>   

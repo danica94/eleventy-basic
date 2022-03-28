@@ -3,7 +3,7 @@ title: Home
 layout: base.njk
 tags: navItem
 ---
-# {{title}}
+# 
  <section class="selfintro">
         <p>I'am</p>
         <h1 class="name">Xueying(Danica) Liu</h1>
