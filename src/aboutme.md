@@ -1,9 +1,8 @@
 ---
-title: Home
+title: aboutme
 layout: base.njk
 tags: navItem
 ---
-# 
  <section class="selfintro">
         <p>I'am</p>
         <h1 class="name">Xueying(Danica) Liu</h1>

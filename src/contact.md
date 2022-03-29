@@ -3,7 +3,7 @@ title: Home
 layout: base.njk
 tags: navItem
 ---
-# 
+
  <div class="contacttitle">
    <h2 class="findjob">I am avaliable for UI&UX and Graphic design internship.</h2> 
 

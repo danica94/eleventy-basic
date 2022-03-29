@@ -1,9 +1,9 @@
 ---
-title: Home
+title: fear and courage
 layout: base.njk
 tags: navItem
 ---
-# 
+
  <div class="detailpage">   
  <div class="description"> 
    <h2 class="dptitle"> Poster: Fear and Courage</h2>   

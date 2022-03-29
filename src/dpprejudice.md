@@ -1,9 +1,9 @@
 ---
-title: Home
+title: prejudice
 layout: base.njk
 tags: navItem
 ---
-# 
+
   <div class="detailpage">
  <div class="description"> 
      <h2 class="dptitle">Poster: Prejudice</h2> 
