@@ -1,5 +1,5 @@
 ---
-title: Home
+title: love
 layout: base.njk
 tags: navItem
 ---
