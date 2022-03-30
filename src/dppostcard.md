@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Postcard
 layout: base.njk
 tags: navItem
 ---
