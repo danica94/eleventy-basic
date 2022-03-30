@@ -1,5 +1,5 @@
 ---
-title: Home
+title: contact me
 layout: base.njk
 tags: navItem
 ---
