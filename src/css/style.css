@@ -115,7 +115,6 @@ Adjust font-weight and other properties as needed. */
     color:#fff;
   }
   a{
-    padding:8px;
     color:#000;
     text-decoration:none;
     display:block;
@@ -170,6 +169,43 @@ Adjust font-weight and other properties as needed. */
   .project-title a:hover{
     color: #b6a5e8;	
   
+  }
+  .card{
+    background-color: rgb(207, 207, 207) ;
+    border-radius: 0.8rem;
+    overflow: hidden;
+  }
+  
+  
+  .project-title{
+    font-family: 'Patrick Hand', cursive;
+    text-aline:center;
+    font-size:2rem;
+  }
+  .project-title a:hover{
+    color: #b6a5e8;	
+  
+  }
+  .card__img {
+    display: block;
+    width: 100%;
+  }
+  .card__btn {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+    padding: 0.8rem;
+    font-size: 1rem;
+    text-align: center;
+    background-color: #cbc2e9;
+    font-family: 'Patrick Hand', cursive;
+    border-radius: 0.4rem;
+    border: 0px;
+  /*   margin-left: 6px; */
+  }
+  
+  .card__content{
+    padding: 0 40px 20px 40px;
   }
   images-width{
       display: grid;
