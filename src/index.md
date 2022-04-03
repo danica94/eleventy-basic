@@ -5,7 +5,7 @@ tags: navItem
 ---
 
 
- <h1 class="design">Multimedia Student Project</h1>
+ <h1 class="design">Xueying Liu Student Project</h1>
    <h2 class="tool">Tool: Photoshop, Illustrator</h2>   
      <selection class="portfolio">  
     <article class="card">  
