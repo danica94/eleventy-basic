@@ -179,7 +179,7 @@ Adjust font-weight and other properties as needed. */
   
   .project-title{
     font-family: 'Patrick Hand', cursive;
-    text-aline:center;
+    text-align:center;
     font-size:2rem;
   }
   .project-title a:hover{
@@ -396,14 +396,14 @@ Adjust font-weight and other properties as needed. */
     align-items: center;
     margin-top: 15px;
     position: relative;
-    color: ;
+ 
     margin: 10px;
   }
   .cardright{
     align-items: center;
     margin-top: 15px;
     position: relative;
-    color: ;
+
     margin: 10px;
       }
   .cardright .input-box{
