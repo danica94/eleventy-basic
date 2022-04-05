@@ -1,9 +1,11 @@
 ---
-title: fear and courage
+title: Fear and Courage
 layout: base.njk
-tags: navItem
+tags: ['work', 'navItem']
+postImg: "images/smallfear.jpg"
+postImgAlt: "alt text"
 ---
-
+  <main>
  <div class="detailpage">   
  <div class="description"> 
    <h2 class="dptitle"> Poster: Fear and Courage</h2>   
@@ -19,7 +21,7 @@ tags: navItem
    <img src="/images/courage.jpg" class="dp" alt="image" style="width:70%">
    </div>
     </div>
-
+  </main>
 
 
 

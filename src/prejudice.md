@@ -1,9 +1,11 @@
 ---
-title: prejudice
+title: Prejudice
 layout: base.njk
-tags: navItem
+tags: ['work', 'navItem']
+postImg: "images/smallprejudice.jpg"
+postImgAlt: "alt text"
 ---
-
+  <main>
   <div class="detailpage">
  <div class="description"> 
      <h2 class="dptitle">Poster: Prejudice</h2> 
@@ -15,3 +17,4 @@ tags: navItem
    <div class="dpimages-width"> 
    <img src="/images/prejudice.jpg"  class="dp" alt="image" style="width:70%"></div>
     </div>
+  </main>

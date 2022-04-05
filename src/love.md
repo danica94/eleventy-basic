@@ -1,9 +1,11 @@
 ---
-title: love
+title: Love
 layout: base.njk
-tags: navItem
+tags: ['work', 'navItem']
+postImg: "images/smallgirl-poster.jpg"
+postImgAlt: "alt text"
 ---
-
+  <main>
   <div class="detailpage">   
  <div class="description"> 
     <h2 class="dptitle">Poster: Love</h2>  
@@ -15,3 +17,4 @@ tags: navItem
    <div class="dpimages-width"> 
    <img src="/images/girl-poster.jpg"  class="dp" alt="image" style="width:70%"></div>
     </div>
+  </main>

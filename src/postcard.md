@@ -1,9 +1,11 @@
 ---
 title: Postcard
 layout: base.njk
-tags: navItem
+tags: ['work', 'navItem']
+postImg: "images/smallposterny.jpg"
+postImgAlt: "alt text"
 ---
-# 
+  <main>
 <div class="detailpage">     
  <div class="description"> 
    <h2 class="dptitle">Postcard: MOMA</h2> 
@@ -15,3 +17,4 @@ tags: navItem
    <div class="dpimages-width"> 
    <img src="/images/posterny.jpg"  class="dp" alt="image" style="width:70%"></div>
     </div>
+  </main>
