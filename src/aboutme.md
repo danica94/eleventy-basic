@@ -3,6 +3,7 @@ title: aboutme
 layout: base.njk
 tags: navItem
 ---
+<main>
  <section class="selfintro">
         <p>I'am</p>
         <h1 class="name">Xueying(Danica) Liu</h1>
@@ -35,6 +36,6 @@ tags: navItem
          </div>
         </div>
         </div>
-        
+      </main>
         
         
